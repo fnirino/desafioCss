@@ -1,0 +1,26 @@
+header nav{
+  text-align: right;
+  padding: 5px;
+  background-color: gray;
+}
+
+main {
+  width:80%;
+  margin-left:10%;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+main img {
+  width: 128px;
+  height: 128px;
+}
+
+#img-html5 {
+  margin-left: 50px;
+}
+
+footer {
+  text-align: center;
+  background-color: gray;
+}
